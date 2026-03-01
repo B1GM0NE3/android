@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson!</string>
+    <string name="knowledge">knowledge</string>
+    <string name="this_text_is_dangerous">This text is dangerous!!!</string>
+    <string name="button">BUTTON</string>
+    <string name="secret_agreement">Secret agreement</string>
+</resources>
